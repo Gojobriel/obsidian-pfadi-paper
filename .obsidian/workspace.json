@@ -329,11 +329,14 @@
       "smart-context:Smart Context: Copy current": false,
       "smart-lookup:Smart Lookup: Open lookup view": false,
       "smart-templates:Smart Templates: Open template context": false,
-      "gemini-scribe:Gemini Scribe: Agent mode": false
+      "gemini-scribe:Gemini Scribe: Agent mode": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "e1b4ae1bd22ef15e",
   "lastOpenFiles": [
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Haus Asterion.md",
+    "Characters/Freya.md",
     "README.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Aldren Nyx.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Caelver.md",
@@ -347,7 +350,6 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Haus Lunaris.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Vaelaris",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Haus Asterion.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Vaelaris/Haus Vaelaris.md",
     "TTRPG/Campaigns/Pfadi and Paper/Sessions/Session-0.5.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Vesper/Haus Vesper.md",
@@ -362,7 +364,6 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Caelen Asterion.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Vesper",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver",
-    "Characters/Freya.md",
     "Characters/Caspian Nyx.md",
     "TTRPG/Campaigns/Pfadi and Paper/Pfadi and Paper.md",
     "TTRPG/Campaigns/Pfadi and Paper/Lore/Campaign Timeline.md",
