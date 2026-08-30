@@ -1,1 +1,1 @@
-Vater von: [[Gerhard Aurelanor]], Erwin Aurelanor, Susanne Aurelanor
+Vater von: [[Gerhard Aurelan]], Erwin Aurelanor, Susanne Aurelanor
