@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "b87adf5e34ead65d",
+            "id": "3956190da2f27d83",
             "type": "leaf",
             "state": {
               "type": "time-event-editor-view",
@@ -313,11 +313,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,8 +353,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ed5d8f25d5731f55",
+  "active": "e968395062842381",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "TTRPG/Campaigns/Pfadi and Paper/Sessions/Session-0.5.md",
+    "TTRPG/Time/weather-dayview/cal-bela/401.weather.json",
+    "TTRPG/Time/weather-reference/cal-bela/general/401.reference.json",
+    "TTRPG/Time/event-index/cal-bela/401.index.json",
     "Characters/Freya Liadon.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Alva Liadon.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Varin Liadon.md",
@@ -377,7 +383,6 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Vaelaris",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Vaelaris/Haus Vaelaris.md",
-    "TTRPG/Campaigns/Pfadi and Paper/Sessions/Session-0.5.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Vesper/Haus Vesper.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Familie Nyx.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris",
@@ -386,10 +391,6 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Joffrey Rabenstein.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Caelen Asterion.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Vesper",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser",
     "Locations/Attachments/taroduns-tomb-patreon.jpg",
     "attachments/bailon_the_beardless.png.png"
   ]

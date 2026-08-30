@@ -3,12 +3,12 @@
   "calendarId": "cal-bela",
   "title": "The Wild Sheep Chase Event",
   "date": {
-    "year": 400,
+    "year": 401,
     "monthIndex": 2,
     "day": 27
   },
   "endDate": {
-    "year": 400,
+    "year": 401,
     "monthIndex": 2,
     "day": 28
   },
@@ -17,5 +17,5 @@
   "tagRefs": [],
   "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Sessions/Session-0.5.md",
   "createdAt": "2026-08-30T08:52:21.019Z",
-  "updatedAt": "2026-08-30T15:49:13.251Z"
+  "updatedAt": "2026-08-30T18:46:11.940Z"
 }

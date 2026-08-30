@@ -3,12 +3,14 @@
     "dataFolder": "TTRPG/Time",
     "activeCalendarId": "cal-bela",
     "dayViewDateFormat": "D-M-YYYY",
-    "showCalendarWeekNumbers": true,
+    "showCalendarWeekNumbers": false,
     "temperatureUnit": "c",
     "controlTimeButtons": [],
     "communityLibraryIndexUrl": "https://jareika.github.io/ttrpg-tools-time-library/index.json",
     "frontmatterImport": {
-      "enabled": false,
+      "enabled": true,
+      "startDateProperty": "fc-date",
+      "endDateProperty": "fc-end",
       "fallbackTitleToFilename": true,
       "colorMappings": []
     },

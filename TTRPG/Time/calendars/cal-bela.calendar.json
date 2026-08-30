@@ -115,7 +115,7 @@
     "yearDisplay": {
       "negativeYearsMode": "signed",
       "largeYearFormat": "plain",
-      "eraYearMode": "relative"
+      "eraYearMode": "absolute"
     },
     "seasons": [
       {
@@ -148,20 +148,20 @@
       }
     ],
     "time": {
-      "enabled": false,
+      "enabled": true,
       "hoursPerDay": 24,
       "minutesPerHour": 60
     }
   },
   "state": {
-    "activeView": "year",
+    "activeView": "week",
     "todayDate": {
-      "year": 400,
+      "year": 401,
       "monthIndex": 2,
       "day": 28
     },
     "cursorDate": {
-      "year": 400,
+      "year": 401,
       "monthIndex": 2,
       "day": 28
     },
