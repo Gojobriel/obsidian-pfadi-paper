@@ -1,0 +1,26 @@
+{
+  "appearance": {
+    "accentColor": "#cf655f",
+    "panelColor": "",
+    "buttonScale": 100,
+    "gap": 8,
+    "radius": 12
+  },
+  "groups": [
+    {
+      "id": "group-mtfkte04-e2wd81",
+      "name": "Time",
+      "showTitle": true,
+      "gapAfter": 18,
+      "items": [
+        {
+          "id": "action-mtfkx43q-tp11nn",
+          "providerId": "ttrpg-tools-time",
+          "actionId": "frontmatter.scan-active-note",
+          "fallbackName": "Scan active note",
+          "fallbackIcon": "scan"
+        }
+      ]
+    }
+  ]
+}

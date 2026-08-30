@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "TTRPG/Campaigns/Pfadi and Paper/Sessions/",
+    "TTRPG/Campaigns/Pfadi and Paper/Quests/",
+    "TTRPG/Campaigns/Pfadi and Paper/Pfadi and Paper",
+    "gemini-scribe/",
+    "TTRPG/Campaigns/Pfadi and Paper/Lore/"
+  ],
+  "alwaysUpdateLinks": true
+}

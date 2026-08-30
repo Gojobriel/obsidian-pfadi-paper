@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Characters/Dead  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/Yuan-ti\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 350463
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.844623867664435,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 231,
+  "scale": 0.7835619086960458,
+  "close": false
+}
