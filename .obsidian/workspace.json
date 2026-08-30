@@ -357,19 +357,13 @@
       "ttrpg-campaign-manager:TTRPG Campaign Manager": false,
       "dndbeyond-importer:Import D&D Beyond character": false,
       "dndbeyond-importer:Open Dice Roller": false,
+      "github-sync:Sync with Remote": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "smart-context:Smart Context: List Named Contexts": false,
-      "smart-context:Smart Context: Open Builder": false,
-      "smart-context:Smart Context: Copy current": false,
-      "smart-lookup:Smart Lookup: Open lookup view": false,
-      "smart-templates:Smart Templates: Open template context": false,
-      "gemini-scribe:Gemini Scribe: Agent mode": false,
-      "github-sync:Sync with Remote": false
+      "smart-connections:Toggle Footer Connections": false
     }
   },
-  "active": "3e8d681091d0e60c",
+  "active": "f868820ab0d35076",
   "lastOpenFiles": [
     "John Rotenburg.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Rotenburg Clan.md",

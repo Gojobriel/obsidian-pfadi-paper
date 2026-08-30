@@ -5,7 +5,36 @@
     "dayViewDateFormat": "D-M-YYYY",
     "showCalendarWeekNumbers": false,
     "temperatureUnit": "c",
-    "controlTimeButtons": [],
+    "controlTimeButtons": [
+      {
+        "id": "time-button-1788124454995-1",
+        "label": "+8h",
+        "icon": "timer",
+        "hours": 8,
+        "minutes": 0
+      },
+      {
+        "id": "time-button-1788124456632-2",
+        "label": "+2h",
+        "icon": "timer",
+        "hours": 2,
+        "minutes": 0
+      },
+      {
+        "id": "time-button-1788124468016-3",
+        "label": "+1h",
+        "icon": "timer",
+        "hours": 1,
+        "minutes": 0
+      },
+      {
+        "id": "time-button-1788124473294-4",
+        "label": "+10m",
+        "icon": "timer",
+        "hours": 0,
+        "minutes": 10
+      }
+    ],
     "communityLibraryIndexUrl": "https://jareika.github.io/ttrpg-tools-time-library/index.json",
     "frontmatterImport": {
       "enabled": true,
@@ -20,6 +49,11 @@
     }
   },
   "fantasyClock": {
-    "byCalendarId": {}
+    "byCalendarId": {
+      "cal-bela": {
+        "hour": 8,
+        "minute": 30
+      }
+    }
   }
 }
