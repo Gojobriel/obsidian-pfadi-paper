@@ -1,1 +1,1 @@
-Hauptseitenhaus fuer Forschung, Fokus a
+Hauptseitenhaus fuer Forschung, Fokus auf Wissen, Magie
