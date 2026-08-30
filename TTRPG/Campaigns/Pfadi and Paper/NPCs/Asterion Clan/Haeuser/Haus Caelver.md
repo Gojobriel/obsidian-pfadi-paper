@@ -1,3 +1,3 @@
 [[Haus Asterion]] --> Haus Caelver
 
-Hauptnebenhaus
+Hauptseitenhaus fuer 
