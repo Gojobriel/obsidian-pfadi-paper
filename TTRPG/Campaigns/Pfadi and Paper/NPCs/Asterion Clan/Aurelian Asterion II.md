@@ -1,1 +1,0 @@
-Erbe des [[Haus Asterion]] 
