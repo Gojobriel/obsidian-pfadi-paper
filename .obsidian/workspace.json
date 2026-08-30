@@ -42,18 +42,6 @@
             }
           },
           {
-            "id": "cf76646a32011002",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
-            }
-          },
-          {
             "id": "e968395062842381",
             "type": "leaf",
             "state": {
@@ -62,9 +50,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "f3014a1b4bde0943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haus Rotenburg"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -313,12 +316,11 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,44 +355,45 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e968395062842381",
+  "active": "f3429b1a8ed1d16a",
   "lastOpenFiles": [
+    "TTRPG/Time/event-index/cal-bela/400.index.json",
+    "TTRPG/Time/event-index/cal-bela/397.index.json",
+    "TTRPG/Time/event-index/cal-bela/396.index.json",
+    "TTRPG/Time/event-index/cal-bela/394.index.json",
+    "TTRPG/Time/event-index/cal-bela/393.index.json",
+    "TTRPG/Time/event-index/cal-bela/392.index.json",
+    "TTRPG/Time/event-index/cal-bela/390.index.json",
+    "TTRPG/Time/event-index/cal-bela/389.index.json",
+    "TTRPG/Time/event-index/cal-bela/388.index.json",
+    "TTRPG/Time/event-index/cal-bela/387.index.json",
+    "TTRPG/Time/event-index/cal-bela/386.index.json",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Rotenburg Clan.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Aurelian Asterion II.md",
     "Untitled.canvas",
     "TTRPG/Campaigns/Pfadi and Paper/Sessions/Session-0.5.md",
-    "TTRPG/Time/weather-dayview/cal-bela/401.weather.json",
-    "TTRPG/Time/weather-reference/cal-bela/general/401.reference.json",
-    "TTRPG/Time/event-index/cal-bela/401.index.json",
     "Characters/Freya Liadon.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Alva Liadon.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Varin Liadon.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Yuan-ti/Yuan-Ti.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Rotenburg Clan.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Gerhard Aurelan.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Victor Aurelan.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Maelis Aurelan.md",
-    "TTRPG/Time/weather-dayview/cal-bela/231.weather.json",
-    "TTRPG/Time/weather-reference/cal-bela/general/231.reference.json",
-    "TTRPG/Time/event-index/cal-bela/231.index.json",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Haus Asterion.md",
     "README.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Aldren Nyx.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Caelver.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Veyra Lunaris.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Theron Lunaris.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Lunara Asterion.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Haus Lunaris.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Vaelaris",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Vaelaris/Haus Vaelaris.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Vesper/Haus Vesper.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Familie Nyx.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Noke.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Finethir Shinebright.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Joffrey Rabenstein.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein.md",
     "Locations/Attachments/taroduns-tomb-patreon.jpg",
     "attachments/bailon_the_beardless.png.png"
   ]

@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 350463
       }
+    },
+    {
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
@@ -49,10 +56,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 2.88893265064986,
-  "linkStrength": 0,
-  "linkDistance": 500,
-  "scale": 0.3924858116688249,
-  "close": true
+  "centerStrength": 0.129775502166207,
+  "repelStrength": 12.0911998349324,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8414471757755578,
+  "close": false
 }

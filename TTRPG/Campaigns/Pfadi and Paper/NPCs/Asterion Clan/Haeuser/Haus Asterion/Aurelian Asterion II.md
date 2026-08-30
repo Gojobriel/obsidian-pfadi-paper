@@ -1,1 +1,1 @@
-Erbe des [[Haus Asterion]] 
+Sohn von [[Lord Aurelian Asterion]]
