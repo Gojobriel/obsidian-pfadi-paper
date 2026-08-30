@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Characters/Dead  ",
@@ -48,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.844623867664435,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 231,
-  "scale": 0.7835619086960458,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 2.88893265064986,
+  "linkStrength": 0,
+  "linkDistance": 500,
+  "scale": 0.3924858116688249,
   "close": false
 }

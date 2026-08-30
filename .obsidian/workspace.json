@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Freya.md",
+                "file": "Characters/Freya Liadon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Freya"
+              "title": "Freya Liadon"
             }
           },
           {
@@ -42,7 +42,7 @@
             }
           },
           {
-            "id": "e1b4ae1bd22ef15e",
+            "id": "cf76646a32011002",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -52,9 +52,19 @@
               "icon": "lucide-file",
               "title": "Juggl"
             }
+          },
+          {
+            "id": "e968395062842381",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Freya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -304,7 +313,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -343,20 +352,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f3429b1a8ed1d16a",
+  "active": "ed5d8f25d5731f55",
   "lastOpenFiles": [
+    "Characters/Freya Liadon.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Alva Liadon.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Varin Liadon.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Yuan-ti/Yuan-Ti.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Rotenburg Clan.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Gerhard Aurelan.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Victor Aurelan.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Maelis Aurelan.md",
     "TTRPG/Time/weather-dayview/cal-bela/231.weather.json",
     "TTRPG/Time/weather-reference/cal-bela/general/231.reference.json",
     "TTRPG/Time/event-index/cal-bela/231.index.json",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Haus Asterion.md",
-    "Characters/Freya.md",
     "README.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Aldren Nyx.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Caelver.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Veyra Lunaris.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Victor Aurelan.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Maelis Aurelan.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan/Gerhard Aurelan.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Theron Lunaris.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Lunara Asterion.md",
@@ -369,7 +382,6 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Familie Nyx.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Noke.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Freyas Father.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Finethir Shinebright.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Joffrey Rabenstein.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg.md",
@@ -377,10 +389,7 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Caelen Asterion.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver/Haus Vesper",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver",
-    "Characters/Caspian Nyx.md",
-    "TTRPG/Campaigns/Pfadi and Paper/Pfadi and Paper.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan",
     "Locations/Attachments/taroduns-tomb-patreon.jpg",
     "attachments/bailon_the_beardless.png.png"
   ]

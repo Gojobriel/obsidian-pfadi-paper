@@ -161,9 +161,9 @@
       "day": 28
     },
     "cursorDate": {
-      "year": 0,
-      "monthIndex": 0,
-      "day": 1
+      "year": 400,
+      "monthIndex": 2,
+      "day": 28
     },
     "showEraDescription": false
   },
