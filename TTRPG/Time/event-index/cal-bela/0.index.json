@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "cal-bela",
+  "year": 0,
+  "days": {
+    "0-1": {
+      "items": [
+        {
+          "id": "belani-kqyn4axh",
+          "title": "Belanien wurde gegruendet.",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "cal-bela",
+  "year": 391,
+  "days": {
+    "8-9": {
+      "items": [
+        {
+          "id": "caspia-uw1qaec8",
+          "title": "Caspians Juengerer bruder stirbt",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

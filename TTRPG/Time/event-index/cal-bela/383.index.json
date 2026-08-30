@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "cal-bela",
+  "year": 383,
+  "days": {
+    "7-21": {
+      "items": [
+        {
+          "id": "caspia-l3s2pwkh",
+          "title": "Caspian Geboren",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

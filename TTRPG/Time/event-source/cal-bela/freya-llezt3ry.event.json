@@ -1,0 +1,16 @@
+{
+  "id": "freya--llezt3ry",
+  "calendarId": "cal-bela",
+  "title": "Freya geboren",
+  "date": {
+    "year": 101,
+    "monthIndex": 11,
+    "day": 17
+  },
+  "color": "#4e3e3e",
+  "tagRefs": [],
+  "weatherPackId": "general",
+  "noteRef": "Characters/Freya.md",
+  "createdAt": "2026-08-30T09:19:21.641Z",
+  "updatedAt": "2026-08-30T09:19:21.641Z"
+}

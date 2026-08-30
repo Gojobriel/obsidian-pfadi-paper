@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "cal-bela",
+  "year": 101,
+  "days": {
+    "11-17": {
+      "items": [
+        {
+          "id": "freya--llezt3ry",
+          "title": "Freya geboren",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

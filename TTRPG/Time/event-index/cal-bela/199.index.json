@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "cal-bela",
+  "year": 199,
+  "days": {
+    "2-12": {
+      "items": [
+        {
+          "id": "akira--mss9p2ny",
+          "title": "Akira geburt",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

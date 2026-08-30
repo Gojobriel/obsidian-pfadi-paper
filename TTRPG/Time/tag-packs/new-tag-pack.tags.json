@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "kind": "tag-pack",
+  "id": "new-tag-pack",
+  "name": "New Tag Pack",
+  "tags": [
+    {
+      "id": "history",
+      "name": "history",
+      "color": "#d46b65"
+    },
+    {
+      "id": "war",
+      "name": "war",
+      "color": "#8f4f4c"
+    },
+    {
+      "id": "travel",
+      "name": "travel",
+      "color": "#e2b35d"
+    }
+  ]
+}

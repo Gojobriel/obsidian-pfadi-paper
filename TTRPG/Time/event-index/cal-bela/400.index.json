@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "cal-bela",
+  "year": 400,
+  "days": {
+    "2-27": {
+      "items": [
+        {
+          "id": "eryndo-lzs2l960",
+          "title": "Eryndor dies",
+          "color": "#000000"
+        },
+        {
+          "id": "the-wi-kmoijd8d",
+          "title": "The Wild Sheep Chase Event",
+          "color": "#4e3e3e"
+        }
+      ]
+    },
+    "2-28": {
+      "items": [
+        {
+          "id": "the-wi-kmoijd8d",
+          "title": "The Wild Sheep Chase Event",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}

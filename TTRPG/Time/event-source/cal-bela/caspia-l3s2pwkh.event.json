@@ -1,0 +1,16 @@
+{
+  "id": "caspia-l3s2pwkh",
+  "calendarId": "cal-bela",
+  "title": "Caspian Geboren",
+  "date": {
+    "year": 383,
+    "monthIndex": 7,
+    "day": 21
+  },
+  "color": "#4e3e3e",
+  "tagRefs": [],
+  "weatherPackId": "general",
+  "noteRef": "Characters/Caspian.md",
+  "createdAt": "2026-08-30T09:05:38.785Z",
+  "updatedAt": "2026-08-30T09:05:38.785Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "caspia-uv7ovjdc",
+  "calendarId": "cal-bela",
+  "title": "Caspians Vater stirbt",
+  "date": {
+    "year": 395,
+    "monthIndex": 4,
+    "day": 3
+  },
+  "description": "Tod von Caspians Vater\nCaspians Vater erkrankt schwer.\nCaspian versucht, Medizin für ihn zu stehlen.\nSein Vater stirbt dennoch.\nCaspian ist 12",
+  "color": "#4e3e3e",
+  "tagRefs": [],
+  "noteRef": "Characters/Caspian.md",
+  "createdAt": "2026-08-30T13:38:55.279Z",
+  "updatedAt": "2026-08-30T13:38:55.279Z"
+}

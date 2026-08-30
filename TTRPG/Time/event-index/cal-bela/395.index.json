@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "cal-bela",
+  "year": 395,
+  "days": {
+    "4-3": {
+      "items": [
+        {
+          "id": "caspia-uv7ovjdc",
+          "title": "Caspians Vater stirbt",
+          "color": "#4e3e3e"
+        }
+      ]
+    }
+  }
+}
