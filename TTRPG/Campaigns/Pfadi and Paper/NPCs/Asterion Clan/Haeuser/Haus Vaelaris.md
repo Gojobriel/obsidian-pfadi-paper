@@ -1,2 +1,2 @@
 
-Hauptseitenhaus fuer Militaer und SCh
+Hauptseitenhaus fuer Militaer und Schutz
