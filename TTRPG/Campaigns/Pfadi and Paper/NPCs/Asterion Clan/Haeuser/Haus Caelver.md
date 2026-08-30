@@ -1,3 +1,3 @@
 [[Haus Asterion]] --> Haus Caelver
 
-Hauptseitenhaus fuer 
+Hauptseitenhaus fuer Handel und Verwal
