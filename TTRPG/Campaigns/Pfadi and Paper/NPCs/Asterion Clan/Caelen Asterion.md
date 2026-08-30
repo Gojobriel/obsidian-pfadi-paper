@@ -1,1 +1,1 @@
-Gruender des Hauses 
+Gruender des [[Has]]
