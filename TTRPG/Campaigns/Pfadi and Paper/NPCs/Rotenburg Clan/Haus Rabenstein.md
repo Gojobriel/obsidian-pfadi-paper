@@ -1,4 +1,4 @@
-Nebenhaus des [[Rotenburg Clan]]s
+Nebenhaus des [[Haus Rotenburg]]s
 
 Mitglieder: [[Joffrey Rabenstein]]
 
