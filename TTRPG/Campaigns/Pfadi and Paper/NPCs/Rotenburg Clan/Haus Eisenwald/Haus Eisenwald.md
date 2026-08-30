@@ -1,0 +1,1 @@
+Dieses Haus ist zustaendig fuer grosse Militaerische Operationen des [[Rotenburg Clan]]s

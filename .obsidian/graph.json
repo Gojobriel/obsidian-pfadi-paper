@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Characters/Dead  ",
@@ -43,10 +43,24 @@
       }
     },
     {
-      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/Familie Aurelan\"  ",
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/das Aurelanische Koenigreich\"",
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/Events that happened\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/Liadon Familie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 12.0911998349324,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8414471757755578,
-  "close": false
+  "scale": 0.2194905256995317,
+  "close": true
 }

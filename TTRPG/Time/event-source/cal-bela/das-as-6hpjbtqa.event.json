@@ -3,18 +3,18 @@
   "calendarId": "cal-bela",
   "title": "Das Asterion Massaker",
   "date": {
-    "year": 283,
+    "year": 45,
     "monthIndex": 2,
     "day": 28
   },
   "endDate": {
-    "year": 401,
+    "year": 45,
     "monthIndex": 2,
-    "day": 28
+    "day": 30
   },
-  "description": "Rotenburg erfaehrt von der Prophezeihung und hat inziwschen so viel macht im Hintergrund gekauft, dass sie ein Massenmord an den Haeusern Asterions machen koennen, und es aussehen lassen wie interne konflikte\nUeberlebende aendern ihre nahmen oder leben nicht mehr lange",
   "color": "#4e3e3e",
   "tagRefs": [],
+  "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Das Asterion Massaker.md",
   "createdAt": "2026-08-30T19:04:20.615Z",
-  "updatedAt": "2026-08-30T19:04:20.615Z"
+  "updatedAt": "2026-08-30T21:53:50.010Z"
 }

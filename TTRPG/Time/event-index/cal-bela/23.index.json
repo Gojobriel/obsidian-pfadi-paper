@@ -2,13 +2,13 @@
   "version": 1,
   "kind": "event-index-year",
   "calendarId": "cal-bela",
-  "year": 391,
+  "year": 23,
   "days": {
-    "8-9": {
+    "2-28": {
       "items": [
         {
-          "id": "caspia-uw1qaec8",
-          "title": "Caspians Juengerer bruder stirbt",
+          "id": "die-pr-6fmhryqw",
+          "title": "Die Prophezeihung",
           "color": "#4e3e3e"
         }
       ]
