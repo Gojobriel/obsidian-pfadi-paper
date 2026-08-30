@@ -3,8 +3,8 @@
   "calendarId": "cal-bela",
   "title": "Freya geboren",
   "date": {
-    "year": 101,
-    "monthIndex": 11,
+    "year": 231,
+    "monthIndex": 1,
     "day": 17
   },
   "color": "#4e3e3e",
@@ -12,5 +12,5 @@
   "weatherPackId": "general",
   "noteRef": "Characters/Freya.md",
   "createdAt": "2026-08-30T09:19:21.641Z",
-  "updatedAt": "2026-08-30T09:19:21.641Z"
+  "updatedAt": "2026-08-30T18:08:44.502Z"
 }

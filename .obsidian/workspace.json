@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "b87adf5e34ead65d",
+            "type": "leaf",
+            "state": {
+              "type": "time-event-editor-view",
+              "state": {},
+              "icon": "plus-circle",
+              "title": "Time event editor"
+            }
+          },
+          {
             "id": "e1b4ae1bd22ef15e",
             "type": "leaf",
             "pinned": true,
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -333,8 +343,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e1b4ae1bd22ef15e",
+  "active": "f3429b1a8ed1d16a",
   "lastOpenFiles": [
+    "TTRPG/Time/weather-dayview/cal-bela/231.weather.json",
+    "TTRPG/Time/weather-reference/cal-bela/general/231.reference.json",
+    "TTRPG/Time/event-index/cal-bela/231.index.json",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Asterion/Haus Asterion.md",
     "Characters/Freya.md",
     "README.md",
@@ -366,11 +379,8 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Caelver",
     "Characters/Caspian Nyx.md",
     "TTRPG/Campaigns/Pfadi and Paper/Pfadi and Paper.md",
-    "TTRPG/Campaigns/Pfadi and Paper/Lore/Campaign Timeline.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan",
-    "TTRPG/Time/event-source/cal-bela/zersto-v2xj8fvz.event.json",
-    "TTRPG/Time/event-index/cal-bela/399.index.json",
     "Locations/Attachments/taroduns-tomb-patreon.jpg",
     "attachments/bailon_the_beardless.png.png"
   ]
