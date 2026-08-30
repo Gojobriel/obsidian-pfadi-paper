@@ -1,1 +1,0 @@
-gruendet [[Haus Vaelaris]]  
