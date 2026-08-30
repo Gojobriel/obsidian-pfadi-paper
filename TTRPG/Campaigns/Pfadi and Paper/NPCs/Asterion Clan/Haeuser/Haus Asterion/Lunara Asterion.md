@@ -1,2 +1,2 @@
 Gruenderin des [[Haus Lunaris]] 
-Mutter von: [[Seraphine Lunaris]], [[Aelion L]]
+Mutter von: [[Seraphine Lunaris]], [[Aelion Lunaris]]
