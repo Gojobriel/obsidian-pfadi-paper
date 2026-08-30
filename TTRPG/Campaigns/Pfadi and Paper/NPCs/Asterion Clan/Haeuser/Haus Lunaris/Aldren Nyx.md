@@ -1,1 +1,1 @@
-Frueher: Aldren Lunaris, aendert seinen Nachname zu Nyx damit 
+Frueher: Aldren Lunaris, aendert seinen Nachname zu Nyx damit die Familie in Frieden Leben kann
