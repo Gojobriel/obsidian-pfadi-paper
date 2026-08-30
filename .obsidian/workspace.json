@@ -82,15 +82,13 @@
           {
             "id": "0eaf689895c550e2",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Akira.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Akira"
+              "title": "Juggl"
             }
           }
         ],
@@ -312,29 +310,9 @@
               "icon": "command",
               "title": "Time controls"
             }
-          },
-          {
-            "id": "0803066516ceb02b",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "78f7c07b3fcb9e91",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -374,7 +352,13 @@
   },
   "active": "0eaf689895c550e2",
   "lastOpenFiles": [
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein/Jonathan Rabenstein.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein/Persis Rabenstein.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein/Jan Rabenstein.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein/Haus Rabenstein.md",
+    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein/Joffrey Rabenstein.md",
     "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Der Ueberafall auf Aurelanor.md",
+    "Characters/Akira.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Yuan-ti/Yuan-Ti.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/das Aurelanische Koenigreich/das Aurelanische Koenigreich.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Liadon Familie/Varin Liadon.md",
@@ -384,7 +368,6 @@
     "TTRPG/Time/event-index/cal-bela/396.index.json",
     "TTRPG/Time/event-source/cal-bela/der-ue-dfn4syqs.event.json",
     "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Das Asterion Massaker.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein/Joffrey Rabenstein.md",
     "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Die Prophezeihung.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Silberhain/Haus Silberhain.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/das Aurelanische Koenigreich/Familie Aurelan/Maelis Aurelan.md",
@@ -402,11 +385,6 @@
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Asterion Clan.md",
     "TTRPG/Time/event-index/cal-bela/23.index.json",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Rotenburg Clan.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg/Haus Rotenburg.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Silberhain/Lillith Silberhain.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein/Jan Rabenstein.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Eisenwald/Hans Eisenwald.md",
-    "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg/John Rotenburg.md",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Silberhain",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rotenburg",
     "TTRPG/Campaigns/Pfadi and Paper/NPCs/Rotenburg Clan/Haus Rabenstein",
