@@ -1,2 +1,2 @@
 Gruenderin des [[Haus Lunaris]] 
-Mutter von: 
+Mutter von: [[Seraphine ]]
