@@ -1,1 +1,0 @@
-Vater von: Gerhard Aurelanor, Erwin Aurelanor, Susanne Aurelanor
