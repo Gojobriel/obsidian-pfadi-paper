@@ -1,0 +1,1 @@
+Begraebnissstaette fuer gefallene Leute der [[Asterion Clan|Asterions]]

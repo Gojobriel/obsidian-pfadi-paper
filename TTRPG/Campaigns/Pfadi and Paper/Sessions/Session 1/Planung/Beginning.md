@@ -15,7 +15,7 @@ Nach der Tragoedie der letzten Session bereitet ihr die Beerdigung von Eryndor, 
 
 	Da du die Sprache der Diebe verstehst, kannst du den Brief entziffern:
 	
-	Im Dorf Ardeep gibt ein ein Ziel mit dem Name Nyx, erbe des Sterns. Stellt sicher, dass ihr die richtige person habt bevor ihr den Mord ausfuehrt. Wie die Person stirbt ist egal, solange kein Zeuge ueberlebt und kein grosses drama entsteht. 
+	Im Dorf Ardeep gibt ein ein Ziel mit dem Name Nyx, erbe des Sterns. Stellt sicher, dass ihr die richtige person habt bevor ihr sie holt. Wie ihr die Person, solange kein Zeuge ueberlebt, kein grosses drama entsteht und ich das frische Blut eines Sterns bekomme. 
 
 
 
@@ -24,4 +24,4 @@ Nach der Tragoedie der letzten Session bereitet ihr die Beerdigung von Eryndor, 
 - Wenn die Gruppe Shinebright sagt was in dem entzifferten Brief steht
 	- *Offiziel ist Rabenstein nur das Halblingshaus des [[Rotenburg Clan]]s, welcher ueber dies Gebiet herrschte, vor der Gruendung Belaniens, aber es gibt gerüchte, und der ein oder andere Munkelt, dass es dort geheime Spezialeinheiten fuer Spionage und Mord gibt.*
 - Unabhaengig ob er den Inhalt kennt, sagt er noch
-	- **
+	- *Der naechste Rabensteinische Punkt ist wohl die [[Villa Karmesin]] in [[Iproport]], vielleicht koennt ihr dort was finden*

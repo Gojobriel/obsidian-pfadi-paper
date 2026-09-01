@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 12.0911998349324,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.15043954388885628,
-  "close": true
+  "scale": 0.20439122051755929,
+  "close": false
 }
