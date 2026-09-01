@@ -13,6 +13,5 @@ dndbeyond_id: 170299996
 
 # Eryndor
 
-
-Dead
+Spion des [[Haus Rabenstein]] geschickt um die Identitaet von [[Caspian Nyx]] zu bestaetigen und zu beseitigen. 
 

@@ -1,2 +1,2 @@
-Vater von: [[Gerhard Aurelan]], Erwin Aurelanor, Susanne Aurelanor
+Vater von: [[Gerhard Aurelan]], Erwin Aurelan, Susanne Aurelan
 Ehemann von [[Maelis Aurelan]] 
