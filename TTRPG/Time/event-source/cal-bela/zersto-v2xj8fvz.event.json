@@ -9,7 +9,10 @@
   },
   "description": "Caspian kehrt nach Hause zurück.\nEr findet sein Zuhause niedergebrannt vor.\nSeine Mutter scheint Selbstmord begangen zu haben.\nCaspian beginnt sein Leben als wandernder Rogue.",
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday",
+    "new-tag-pack:war"
+  ],
   "createdAt": "2026-08-30T13:44:55.364Z",
-  "updatedAt": "2026-08-30T22:13:31.733Z"
+  "updatedAt": "2026-09-03T10:53:53.165Z"
 }

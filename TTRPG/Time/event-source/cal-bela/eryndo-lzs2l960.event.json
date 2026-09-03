@@ -8,8 +8,10 @@
     "day": 27
   },
   "color": "#000000",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday"
+  ],
   "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Sessions/Session-0.5.md",
   "createdAt": "2026-08-30T09:30:31.773Z",
-  "updatedAt": "2026-08-30T18:46:03.457Z"
+  "updatedAt": "2026-09-03T10:54:01.002Z"
 }

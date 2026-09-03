@@ -8,8 +8,12 @@
     "day": 24
   },
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday",
+    "new-tag-pack:history",
+    "new-tag-pack:war"
+  ],
   "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Der Ueberafall auf Aurelanor.md",
   "createdAt": "2026-08-30T22:18:41.500Z",
-  "updatedAt": "2026-08-30T22:18:41.500Z"
+  "updatedAt": "2026-09-03T10:53:21.969Z"
 }

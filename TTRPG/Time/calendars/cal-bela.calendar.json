@@ -167,7 +167,10 @@
     },
     "showEraDescription": false
   },
-  "linkedTagPackIds": [],
+  "linkedTagPackIds": [
+    "bday-tp",
+    "new-tag-pack"
+  ],
   "linkedCalendarIds": [],
   "linkedWeatherPackIds": [
     "general"

@@ -8,8 +8,11 @@
     "day": 28
   },
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday",
+    "new-tag-pack:history"
+  ],
   "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Rotenburg Heist.md",
   "createdAt": "2026-08-30T13:40:23.009Z",
-  "updatedAt": "2026-08-30T21:29:40.876Z"
+  "updatedAt": "2026-09-03T10:53:32.759Z"
 }

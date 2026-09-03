@@ -8,9 +8,12 @@
     "day": 17
   },
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:birthday",
+    "bday-tp:pc-birthday"
+  ],
   "weatherPackId": "general",
   "noteRef": "Characters/Freya Liadon.md",
   "createdAt": "2026-08-30T09:19:21.641Z",
-  "updatedAt": "2026-08-30T22:11:37.594Z"
+  "updatedAt": "2026-09-03T10:50:19.418Z"
 }

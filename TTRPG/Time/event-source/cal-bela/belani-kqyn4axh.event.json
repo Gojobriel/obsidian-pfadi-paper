@@ -8,9 +8,12 @@
     "day": 1
   },
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday",
+    "new-tag-pack:history"
+  ],
   "weatherPackId": "general",
   "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Gruendung Belaniens.md",
   "createdAt": "2026-08-30T08:55:40.768Z",
-  "updatedAt": "2026-08-30T21:45:43.068Z"
+  "updatedAt": "2026-09-03T10:51:55.136Z"
 }

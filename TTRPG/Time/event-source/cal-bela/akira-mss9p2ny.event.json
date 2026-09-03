@@ -8,7 +8,10 @@
     "day": 12
   },
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:birthday",
+    "bday-tp:pc-birthday"
+  ],
   "createdAt": "2026-08-30T09:53:05.053Z",
-  "updatedAt": "2026-08-30T09:53:05.053Z"
+  "updatedAt": "2026-09-03T10:50:55.116Z"
 }

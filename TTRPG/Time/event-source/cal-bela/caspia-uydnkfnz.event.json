@@ -14,7 +14,9 @@
   },
   "description": "Caspian und sein Bruder werden versklavt und gefoltert.\nCaspians Bruder bricht sich das Bein und kann nicht mehr arbeiten.\nEr wird vor Caspians Augen lebendig an Bestien verfüttert.\nCaspian gelingt die Flucht.",
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday"
+  ],
   "createdAt": "2026-08-30T13:41:22.976Z",
-  "updatedAt": "2026-08-30T13:41:22.976Z"
+  "updatedAt": "2026-09-03T10:53:41.743Z"
 }

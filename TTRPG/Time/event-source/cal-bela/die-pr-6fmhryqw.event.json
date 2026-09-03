@@ -8,8 +8,11 @@
     "day": 28
   },
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday",
+    "new-tag-pack:history"
+  ],
   "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Events that happened/Die Prophezeihung.md",
   "createdAt": "2026-08-30T19:02:43.359Z",
-  "updatedAt": "2026-08-30T21:53:02.297Z"
+  "updatedAt": "2026-09-03T10:52:23.509Z"
 }

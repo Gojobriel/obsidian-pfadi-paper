@@ -14,8 +14,11 @@
   },
   "description": "Session 0.5 happened",
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday",
+    "new-tag-pack:travel"
+  ],
   "noteRef": "TTRPG/Campaigns/Pfadi and Paper/Sessions/Session-0.5.md",
   "createdAt": "2026-08-30T08:52:21.019Z",
-  "updatedAt": "2026-08-30T18:46:11.940Z"
+  "updatedAt": "2026-09-03T10:54:08.146Z"
 }

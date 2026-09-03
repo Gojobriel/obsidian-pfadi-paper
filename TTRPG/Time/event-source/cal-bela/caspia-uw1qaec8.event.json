@@ -9,8 +9,10 @@
   },
   "description": "Caspian ist 8\nTod von Caspians jüngerem Bruder\nSein Bruder ertrinkt im Fluss, nachdem er sich unter Wasser in einer Pflanze verfängt.\nDer Verlust führt dazu, dass sich Caspians Mutter emotional zurückzieht.",
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday"
+  ],
   "noteRef": "Characters/Caspian.md",
   "createdAt": "2026-08-30T13:39:34.210Z",
-  "updatedAt": "2026-08-30T13:39:34.210Z"
+  "updatedAt": "2026-09-03T10:53:02.486Z"
 }

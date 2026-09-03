@@ -9,8 +9,10 @@
   },
   "description": "Tod von Caspians Vater\nCaspians Vater erkrankt schwer.\nCaspian versucht, Medizin für ihn zu stehlen.\nSein Vater stirbt dennoch.\nCaspian ist 12",
   "color": "#4e3e3e",
-  "tagRefs": [],
+  "tagRefs": [
+    "bday-tp:not-a-birthday"
+  ],
   "noteRef": "Characters/Caspian.md",
   "createdAt": "2026-08-30T13:38:55.279Z",
-  "updatedAt": "2026-08-30T13:38:55.279Z"
+  "updatedAt": "2026-09-03T10:53:08.620Z"
 }

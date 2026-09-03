@@ -1,3 +1,5 @@
+geb ca -40
+elf
 Sohn von: [[Veyra Lunaris]]
 Mann von von: [[Elira Dunmore]]
 Vater von: [[Corwin Nyx]]

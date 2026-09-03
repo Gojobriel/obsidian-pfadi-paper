@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "kind": "tag-pack",
+  "id": "bday-tp",
+  "name": "Birthday Tag Pack",
+  "tags": [
+    {
+      "id": "birthday",
+      "name": "Birthday",
+      "color": "#ffffff"
+    },
+    {
+      "id": "pc-birthday",
+      "name": "PC Birthday",
+      "color": "#ffffff"
+    },
+    {
+      "id": "not-a-birthday",
+      "name": "not a birthday",
+      "color": "#d46b65"
+    }
+  ]
+}
