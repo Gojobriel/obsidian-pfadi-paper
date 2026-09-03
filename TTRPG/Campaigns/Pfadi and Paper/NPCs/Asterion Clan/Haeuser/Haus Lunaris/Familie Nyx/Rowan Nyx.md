@@ -1,5 +1,5 @@
-born y88
+born 88
 Human
 Mann von Marigold Underhill (Halbling)
 Vater von Tamsin Nyx (Halbling)
-Danach ca 6 generationen an halbling kindern bis [[Dorran Nyx]] 
+Danach ca 8 generationen an halbling kindern mit 29-32 jahren unterschied bis [[Dorran Nyx]] 

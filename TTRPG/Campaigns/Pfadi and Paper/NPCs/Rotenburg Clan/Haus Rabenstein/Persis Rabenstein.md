@@ -1,2 +1,3 @@
+geb ca -40
 Sohn von [[Jan Rabenstein]] 
-Vater von [[Jonathan Rabenstein]] 
+Mutter von [[Jonathan Rabenstein]] 

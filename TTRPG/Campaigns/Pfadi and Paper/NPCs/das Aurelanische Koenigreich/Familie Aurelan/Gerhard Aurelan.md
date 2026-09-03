@@ -8,7 +8,7 @@ tags:
   - npc
   - aurelanor
 ---
-
+geb ca 330
 Koenig von Aureleanor
 
 
