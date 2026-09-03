@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Characters/Dead  ",
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"TTRPG/Campaigns/Pfadi and Paper/NPCs/Asterion Clan/Haeuser/Haus Lunaris/Familie Nyx\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 131200
       }
     },
     {
@@ -81,6 +88,6 @@
   "repelStrength": 10.6344784896317,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6531380204446869,
-  "close": true
+  "scale": 0.27177381946348583,
+  "close": false
 }

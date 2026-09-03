@@ -24,7 +24,7 @@ Nach der Tragoedie der letzten Session bereitet ihr die Beerdigung von Eryndor, 
 - Wenn die Gruppe Shinebright sagt was in dem entzifferten Brief steht
 	- *Offiziel ist Rabenstein nur das Halblingshaus des [[Rotenburg Clan]]s, welcher ueber dies Gebiet herrschte, vor der Gruendung Belaniens, aber es gibt gerüchte, und der ein oder andere Munkelt, dass es dort geheime Spezialeinheiten fuer Spionage und Mord gibt.*
 - Unabhaengig ob er den Inhalt kennt, sagt er noch
-	- *Der naechste Rabensteinische Punkt ist wohl die [[Villa Karmesin]] in [[Iproport]], vielleicht koennt ihr dort was finden*
+	- *Der naechste Rabensteinische Punkt ist wohl die [[Villa Karmesin]] in [[Iproport]], vielleicht koennt ihr dort was finden*. Ich empfehle euch KLuxver zu meiden und ueber unterkluxver zu gehen, denn in Kluxver ist immer eine Menge los und wenn ihr dort gesehen werdet dauert es nicht so lang bis jemand auf eurer Spur ist. 
 
 *Gib den Spielern eine Map - Spieler entscheiden Sich wo sie als naechstes hingehen* 
-[[]]
+[[Kluxver]] [[Unterkluxver]] 
