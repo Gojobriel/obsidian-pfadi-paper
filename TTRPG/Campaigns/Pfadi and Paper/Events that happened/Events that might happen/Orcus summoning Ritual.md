@@ -1,0 +1,2 @@
+Requires 15 mages but joffrey uses 20, a human sacrifice and 10000 GP in Gems and artifacts. Requires all mages to pass a DC 13 Arcana check, on a nat 1 they get sucked into the Ritual as a second sacrifice, on a nat 20 their pass counts for two passes. if they dont have 15 passes, the ritual doesnt work. Joffrey willd Caspian als Opfer, damit die zombies wissen wie sternenblut riecht. Orcus wird aber im gegenzug auch joffrey in ein zombie verwandeln. 
+

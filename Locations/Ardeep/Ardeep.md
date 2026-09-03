@@ -1,1 +1,1 @@
-Heimat von [[Finethir Shinebright]] und [[Noke]]. 
+Heimat von [[Finethir Shinebright]] und [[Noke]]. Grabstaette von [[Eryndor]] 

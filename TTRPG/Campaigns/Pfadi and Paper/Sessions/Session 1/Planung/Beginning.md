@@ -25,3 +25,6 @@ Nach der Tragoedie der letzten Session bereitet ihr die Beerdigung von Eryndor, 
 	- *Offiziel ist Rabenstein nur das Halblingshaus des [[Rotenburg Clan]]s, welcher ueber dies Gebiet herrschte, vor der Gruendung Belaniens, aber es gibt gerüchte, und der ein oder andere Munkelt, dass es dort geheime Spezialeinheiten fuer Spionage und Mord gibt.*
 - Unabhaengig ob er den Inhalt kennt, sagt er noch
 	- *Der naechste Rabensteinische Punkt ist wohl die [[Villa Karmesin]] in [[Iproport]], vielleicht koennt ihr dort was finden*
+
+*Gib den Spielern eine Map - Spieler entscheiden Sich wo sie als naechstes hingehen* 
+[[]]
